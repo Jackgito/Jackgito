@@ -7,10 +7,10 @@ Hi! I'm a software developer student from LUT nearing the end of my studies. My 
 ## 🛠️ **Technologies & Tools**
 
 ### Core Skills
-[![Core Skills](https://skillicons.dev/icons?i=js,react,nodejs,git,mongodb,postgres,figma,html,css,gamemakerstudio)](https://skillicons.dev)
+[![Core Skills](https://skillicons.dev/icons?i=react,nodejs,js,html,css,git,mongodb,postgres,gamemakerstudio)](https://skillicons.dev)
 
 ### I also have a solid foundation in
-[![I also have solid foundation in](https://skillicons.dev/icons?i=js,c,java,python,deno,electron,godot)](https://skillicons.dev)
+[![I also have solid foundation in](https://skillicons.dev/icons?i=c,java,python,deno,figma,electron,godot)](https://skillicons.dev)
 
 
 ## 📈 **Stats & Contributions**
