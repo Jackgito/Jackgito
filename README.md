@@ -2,6 +2,7 @@
 
 Hi! I'm a software developer student from LUT nearing the end of my studies. My main focus and passion is **frontend web development** since I enjoy good looking things, but I also happen to know a thing or two about **backend development** as well. Sometimes I dabble in game development as well using Gamemaker. In addition, I have a strong foundation on important software development concepts such as UX/UI design, version control, collaboration, software quality, security and much more!
 
+You can check my portfolio here (last updated 2025): https://portfolio-jackgitos-projects.vercel.app/
 ---
 
 ## 🛠️ **Technologies & Tools**
